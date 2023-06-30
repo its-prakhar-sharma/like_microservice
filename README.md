@@ -4,7 +4,7 @@
 
 ###Installation:
 
-run `docker composer up` currently not working giving some error in docker only. Still fixing
+run `docker composer up` **currently not working giving some error in docker only. Still fixing
 
 ###Routes:
 
